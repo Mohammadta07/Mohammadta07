@@ -32,6 +32,8 @@ Driven by my passion for IT, I have started self-learning topics such as hardwar
   </tr>
 </table>
 
+<p>&nbsp;</p> <!-- This adds the gap -->
+
 **In Progress:**
 
 <table>
@@ -42,16 +44,8 @@ Driven by my passion for IT, I have started self-learning topics such as hardwar
         Cisco Computer Hardware Basics
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/org/cisco/badge/python-essentials-1.1" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/Mohammadta07/images/main/py%20es%20ct.png" alt="Python Essentials" width="50"/><br>
-        Python Essentials
-      </a>
-    </td>
   </tr>
 </table>
-
-
 
 
 
