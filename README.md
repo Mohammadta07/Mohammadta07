@@ -24,6 +24,12 @@ Driven by my passion for IT, I have started self-learning topics such as hardwar
   <img src="https://raw.githubusercontent.com/Mohammadta07/images/main/ibm%20it%20fnd%20bdge.png" alt="IBM IT Fundamentals" width="50"/>
 </a>
 
+&nbsp;
+
+In Progress:
+
+
+
 
 ## Projects
 - <a href="https://github.com/Mohammadta07/pending-project">pending project</a>
