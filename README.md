@@ -20,13 +20,37 @@ Driven by my passion for IT, I have started self-learning topics such as hardwar
 
 
 ## 📜 Certifications
-<a href="https://www.credly.com/badges/e26190e3-d1fd-4527-ad42-747bfcc3bbb1/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/Mohammadta07/images/main/ibm%20it%20fnd%20bdge.png" alt="IBM IT Fundamentals" width="50"/>
-</a>
 
-&nbsp;
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e26190e3-d1fd-4527-ad42-747bfcc3bbb1/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/Mohammadta07/images/main/ibm%20it%20fnd%20bdge.png" alt="IBM IT Fundamentals" width="50"/><br>
+        IBM IT Fundamentals
+      </a>
+    </td>
+  </tr>
+</table>
 
-In Progress:
+**In Progress:**
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/org/cisco/badge/computer-hardware-basics" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/Mohammadta07/images/main/ch%20bsics%20c.png" alt="Cisco Computer Hardware Basics" width="50"/><br>
+        Cisco Computer Hardware Basics
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/org/cisco/badge/python-essentials-1.1" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/Mohammadta07/images/main/py%20es%20ct.png" alt="Python Essentials" width="50"/><br>
+        Python Essentials
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
