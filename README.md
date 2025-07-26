@@ -14,7 +14,7 @@ Driven by my passion for IT, I have started self-learning topics such as hardwar
 
 | Skill                                         | Associated Project                                   |
 |-----------------------------------------------|----------------------------------------------------|
-| Pending           | [pending](https://example.com/detectionlab)  |
+| Pending           | <a href="https://github.com/Mohammadta07/pending-project">pending project</a>|
 
 
 
@@ -26,4 +26,4 @@ Driven by my passion for IT, I have started self-learning topics such as hardwar
 
 
 ## Projects
-- pending
+- <a href="https://github.com/Mohammadta07/pending-project">pending project</a>
