@@ -44,9 +44,9 @@ Driven by my passion for IT, I have started self-learning topics such as hardwar
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/org/cisco/badge/computer-hardware-basics" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/Mohammadta07/images/main/ch%20bsics%20c.png" alt="Cisco Computer Hardware Basics" width="50"/><br>
-        Cisco Computer Hardware Basics
+      <a href="https://www.credly.com/org/cisco/badge/operating-systems-basics" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/Mohammadta07/images/refs/heads/main/os.png" alt="Cisco Operating Systems Basics" width="50"/><br>
+        Cisco Operating Systems Basics
       </a>
     </td>
   </tr>
